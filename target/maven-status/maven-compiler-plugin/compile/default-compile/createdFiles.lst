@@ -1,0 +1,11 @@
+com\wallet\manager\ApplicationRunner.class
+com\wallet\manager\repository\repository\WalletRepository.class
+com\wallet\manager\job\DailyJob.class
+com\wallet\manager\repository\repository\TransactionRepository.class
+com\wallet\manager\controller\WalletManagerController.class
+com\wallet\manager\services\WalletManagerService.class
+com\wallet\manager\repository\WalletEntity.class
+com\wallet\manager\services\WalletManagerServiceImpl.class
+com\wallet\manager\dto\UserAmount.class
+com\wallet\manager\repository\TransactionEntity.class
+com\wallet\manager\dto\TransactionInfo.class

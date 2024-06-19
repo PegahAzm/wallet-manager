@@ -1,0 +1,3 @@
+com\wallet\manager\repository\RepositoryUnitTest.class
+com\wallet\manager\controller\WalletManagerControllerTest.class
+com\wallet\manager\services\WalletManagerServiceTest.class
