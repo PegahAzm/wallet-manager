@@ -1,1 +1,1 @@
-# wallet-managet
+# wallet-manager
